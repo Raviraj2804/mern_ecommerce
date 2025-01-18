@@ -20,9 +20,13 @@ Integrated middleware for authentication, request logging, and error tracking.
 # Database
 
 Utilized MongoDB, a NoSQL database, to store and manage critical data, including:
+
 User data: Registration details, encrypted passwords, and profile information.
+
 Product catalog: Information on product names, prices, categories, descriptions, and inventory.
+
 Orders: Details of customer orders, including products purchased, quantities, and total amounts.
+
 Designed the database schema to ensure scalability and optimized query performance for large datasets.
 
 # Authentication
@@ -41,9 +45,13 @@ Stored transaction details securely in the database for future reference.
 # Key Features
 
 User Account Management: Users can register, log in, update their profiles, and view order history.
+
 Product Filtering and Sorting: Users can filter products by categories, price range, and availability and sort them by relevance or price.
+
 Shopping Cart: Real-time updates to the shopping cart allow users to add or remove items and view the total price dynamically.
+
 Order Management: Users can place orders, track their status, and receive email notifications for successful transactions.
+
 Admin Panel (optional): Allows administrators to manage products, monitor orders, and oversee user activity.
 
 # Deployment
