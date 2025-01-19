@@ -1,5 +1,7 @@
 # E-commerce Website using MERN Stack with Payment Gateway Integration
 
+<img width="803" alt="Image" src="https://github.com/user-attachments/assets/fc5cc9ab-4388-4c0e-982b-f8bf3f7c3425" />
+
 This project is a fully functional e-commerce platform developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application is designed to provide a seamless shopping experience with secure user authentication, an intuitive user interface, and a reliable payment gateway. Below are the key aspects of the project, explained in detail:
 
 # Frontend
